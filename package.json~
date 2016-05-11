@@ -1,0 +1,16 @@
+{
+  "title": "Address Copier",
+  "name": "addresscopier",
+  "version": "1.3.3",
+  "description": "opies shipping address from ebay and amazon to sam's club",
+  "main": "main.js",
+  "author": "Tohidul Islam",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
